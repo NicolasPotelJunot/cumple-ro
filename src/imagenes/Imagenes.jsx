@@ -37,7 +37,7 @@ export const Imagenes = () => {
           src={src}
           ref={(el) => (imageRefs.current[index] = el)}
           className="absolute"
-          style={{ width: "100px", height: "100px" }}
+          style={{ width: "50px", height: "50px" }}
         />
       ))}
     </div>
