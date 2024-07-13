@@ -27,7 +27,7 @@ function App() {
             </figure>
             <div className="card-body">
               <h2 className="card-title w-28 mx-auto font-bold">
-                RETRO: {randomChallenge.numero}
+                RETO: {randomChallenge.numero}
               </h2>
               <p className="text-center">{randomChallenge.reto}</p>
             </div>
