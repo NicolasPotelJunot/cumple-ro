@@ -23,7 +23,7 @@ function App() {
               ¡¡¡Feliz cumple Rocha!!!
             </h1>
             <figure>
-              <img src={`${randomImage}`} />
+              <img src={`${randomImage}`} className="max-h-36"/>
             </figure>
             <div className="card-body">
               <h2 className="card-title w-28 mx-auto font-bold">

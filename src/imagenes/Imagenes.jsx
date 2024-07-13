@@ -9,9 +9,6 @@ import imagen6 from "./6.jpg";
 import imagen7 from "./7.jpg";
 import imagen8 from "./8.jpg";
 import imagen9 from "./9.jpg";
-import imagen10 from "./10.jpg";
-import imagen11 from "./11.jpg";
-import imagen12 from "./12.jpg";
 
 const images = [
   imagen1,
@@ -22,10 +19,7 @@ const images = [
   imagen6,
   imagen7,
   imagen8,
-  imagen9,
-  imagen10,
-  imagen11,
-  imagen12,
+  imagen9
 ];
 
 export const Imagenes = () => {
